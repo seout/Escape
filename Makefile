@@ -1,5 +1,5 @@
 
-obj-m += kfirewall.o
+obj-m += core.o
 core-objs := firewall.o config.o
 
 all:
