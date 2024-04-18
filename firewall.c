@@ -1,6 +1,7 @@
 
 //
-// github.com/seout
+// github.com/webnefor
+// (c) Job
 //
 #include "kernelmod.h"
 
