@@ -2,7 +2,7 @@
 obj-m += core.o
 core-objs := firewall.o config.o
 
-all:
+install:
 	make -C /lib/modules/$(shell uname -r)/build M=$(PWD) modules
 
 clean:
