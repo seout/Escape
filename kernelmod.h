@@ -1,5 +1,6 @@
 //
-// github.com/seout
+// github.com/webnefor
+// (c) Lucas
 //
 
 #include <linux/init.h>
