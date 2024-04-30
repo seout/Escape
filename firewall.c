@@ -1,7 +1,7 @@
 
 //
 // github.com/webnefor
-// (c) Job
+// (c) Lucas
 //
 #include "kernelmod.h"
 
